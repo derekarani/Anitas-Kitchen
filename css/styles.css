@@ -1,0 +1,152 @@
+.first_section {
+  background-image: url(../img/landing.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  color: white;
+  align-items: center;
+  text-align: center;
+  padding-top: 5%;
+}
+
+
+/*First section code ends here*/
+
+
+/*second section code begins here*/
+
+.second_section {
+  height: 130%;
+}
+
+.section_A_words {
+  color: white;
+  padding: 15%;
+}
+
+#happy {
+  padding-top: 5%;
+}
+
+.happy_party {
+  width: 25%;
+  height: 20%;
+}
+
+.happy {
+  text-align: center;
+  width: 110%;
+  height: 50%;
+}
+
+.party {
+  background-color: #F15A29;
+  color: white;
+  height: 50%;
+  text-align: center;
+  width: 110%;
+}
+
+.breakfast {
+  text-align: center;
+  background-image: url(../img/breakfast.jpg);
+  width: 25%;
+  height: 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.lunch {
+  text-align: center;
+  background-image: url(../img/lunch.jpg);
+  width: 25%;
+  height: 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.dinner {
+  text-align: center;
+  background-image: url(../img/dinner.jpg);
+  background-size: cover;
+  width: 25%;
+  height: 20%;
+  background-repeat: no-repeat;
+}
+
+
+/*Code for section three*/
+
+.part_one {
+  float: left;
+  padding-top: 5%;
+}
+
+.one {
+  background-image: url(../img/fastFood1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30%;
+  width: 85%;
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.two {
+  background-image: url(../img/fastFood2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30%;
+  width: 85%;
+  margin-bottom: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.images {
+  padding: 1%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text {
+  padding: 1%;
+  padding-top: 25%;
+}
+
+
+/*Second part of part three(where the drinks are begins here)*/
+
+.parttwo_images {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width:50%;
+}
+
+.drink {
+  display: inline-block;
+  float: right;
+  /*padding-left: 10%;*/
+
+}
+
+.part_two {
+  float: right;
+  margin-top: 10%;
+}
+
+.partwo_text{
+  width:40%;
+  margin-left: 10%;
+}
+
+.image1{
+  padding:30px;
+
+}
+
+.image2{
+  padding: 30px;
+
+
+}
